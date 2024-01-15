@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: lightgray;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+#uber{
+    width: 60px;
+    position: relative;
+    margin:8px 10px;
+}
+header h1{
+    font-size: 60px;
+}
+header p{
+    font-size: 15px;
+}
+.box{
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.roll3{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin-top: 60px; ;
+}
+
+#zz{
+    border-radius: 45%;
+    padding: 15px;
+}
+
+.find{
+    padding: 30PX;
+}
+.find h2{
+    padding: 5px;
+}
+.find p{
+    padding: 10px;
+}
+
+.find button{
+    background-color: yellow;
+    padding: 15px;
+    cursor: pointer;
+}
+
+
+/*-------text-----*/
+
+/*#tt{
+    text-align: center;
+}
+#hd{
+    text-align: center;
+}
+#mb{
+    text-align: center;
+}
+#ch{
+    text-align: center;
+}
+#bm{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/*-------image sizing-----*/
+
+.bm1{
+    width: 10rem;
+    border-radius: 10px;
+    padding: 2px;
+}
+.ho1{
+    width: 8.5rem;
+    border-radius: 10px;
+    padding: 2px;
+}
+.t1{
+    width: 10rem;
+    border-radius: 10px;
+    padding: 2px;
+}
+.b1{
+    width: 10rem;
+    border-radius: 10px;
+    padding: 2px;
+}
+.ch1{
+    width: 10rem;
+    border-radius: 10px;
+    padding: 2px;
+}
